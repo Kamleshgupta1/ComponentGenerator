@@ -1,0 +1,30 @@
+.classmodel{
+  overflow:hidden;
+  height: auto;
+  padding-bottom: 10px;
+  background-color: #7e57c2 ;
+}
+
+button{
+    border-style: none;
+}
+
+button:hover {
+    background: #f50057 ;
+    color: #ffffff;
+    box-shadow : 0px 4px 3px 0px #9575cd ;
+}
+
+.box{
+  background-color: #273ac6ff;
+  height: auto;
+  width: 400px;
+  padding: 10px;
+  border-radius: 3px;
+  color: #fff;
+  padding-bottom: 10px;
+}
+
+.box:hover{
+    box-shadow : 2px 3px 8px 4px #0ae4ba9d;
+}
